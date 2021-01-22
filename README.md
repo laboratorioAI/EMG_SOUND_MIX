@@ -21,7 +21,7 @@ In Reaper and Matlab, the same IP address and port number parameters must be con
     
 ## Gestures Info
 The gestures to be performed are mapped to actions in Reaper accordingly the following image
-  ![GitHub Repository](Images/welcome.png)
+  ![GitHub Repository](Images/gestures-info.png)
 
 
 # Demo 
