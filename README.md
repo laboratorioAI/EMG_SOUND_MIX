@@ -25,6 +25,6 @@ The gestures to be performed are mapped to actions in Reaper accordingly the fol
 
 
 # Demo 
-In the following link you can find a vide showing how the system works.
+In the following link you can find a video how the system works.
 
 https://epnecuador-my.sharepoint.com/:v:/g/personal/laboratorio_ia_epn_edu_ec/EZVv0u7iX0BEvNmOPJcuwdYB3QcH_gow1HHG-HcsoDew3w?e=ua3IMm
