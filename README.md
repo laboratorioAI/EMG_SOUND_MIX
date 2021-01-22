@@ -14,6 +14,10 @@ https://epnecuador-my.sharepoint.com/:f:/g/personal/laboratorio_ia_epn_edu_ec/Eu
 
 2. Osc configuration. 
     ![GitHub Repository](Images/AppConfiguration.png "Step 2")
+    
+    
+3. Gestures Info. 
+    ![GitHub Repository](Images/gestures-info.png "Step 3")
 
 
 
