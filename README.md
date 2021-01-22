@@ -15,8 +15,7 @@ https://epnecuador-my.sharepoint.com/:f:/g/personal/laboratorio_ia_epn_edu_ec/Eu
     
 ## OSC Matlab
 
-In Reaper and Matlab, the same IP address and port number parameters must be configured.
-2. Osc configuration. 
+In Reaper and Matlab, the same IP address and port number parameters must be configured. 
     ![GitHub Repository](Images/AppConfiguration.png "Step 2")
     
     
