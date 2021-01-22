@@ -16,16 +16,16 @@ https://epnecuador-my.sharepoint.com/:f:/g/personal/laboratorio_ia_epn_edu_ec/Eu
 ## OSC Matlab
 
 In Reaper and Matlab, the same IP address and port number parameters must be configured. 
-    ![GitHub Repository](Images/AppConfiguration.png "Step 2")
+    ![GitHub Repository](Images/AppConfiguration.png)
     
     
 ## Gestures Info
 The gestures to be performed are mapped to actions in Reaper accordingly the following image
 
-    ![GitHub Repository](Images/gestures-info.png "Step 3")
+    ![GitHub Repository](Images/gestures-info.png)
 
 
 # Demo 
-In the following link you can access a video demonstrating how the system works.
+In the following link you can find a vide showing how the system works.
 
 https://epnecuador-my.sharepoint.com/:v:/g/personal/laboratorio_ia_epn_edu_ec/EZVv0u7iX0BEvNmOPJcuwdYB3QcH_gow1HHG-HcsoDew3w?e=ua3IMm
