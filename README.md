@@ -23,8 +23,10 @@ In Reaper and Matlab, the same IP address and port number parameters must be con
 The gestures to be performed are mapped to actions in Reaper accordingly the following image
   ![GitHub Repository](Images/gestures-info.png)
 
+# Configuration
+In the following link you can find how to configure the OSC in Reaper and Matlab.
+https://www.youtube.com/watch?v=pmV8kj6pMfI&feature=youtu.be&ab_channel=ArtificialIntelligenceResearchLab
 
 # Demo 
 In the following link you can find a video how the system works.
-
-https://epnecuador-my.sharepoint.com/:v:/g/personal/laboratorio_ia_epn_edu_ec/EZVv0u7iX0BEvNmOPJcuwdYB3QcH_gow1HHG-HcsoDew3w?e=ua3IMm
+https://www.youtube.com/watch?v=keZmM8jVbss&feature=youtu.be&ab_channel=ArtificialIntelligenceResearchLab
